@@ -28,7 +28,7 @@ import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
-df= pd.read_csv("/content/Mall_Customers.csv")
+df= pd.read_csv("Mall_Customers.csv")
 
 
 df.head()
