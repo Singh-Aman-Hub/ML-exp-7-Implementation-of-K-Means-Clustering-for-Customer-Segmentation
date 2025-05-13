@@ -17,13 +17,13 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: 
-RegisterNumber:  
+Developed by: Aman Singh
+RegisterNumber:  212224040020
 */
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+
 
 
 ## Result:
